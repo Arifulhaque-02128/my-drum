@@ -1,0 +1,19 @@
+.container{
+    margin-top: 70px;
+    color: tomato;
+}
+.key{
+    border: 2px solid tomato;
+    border-radius: 30px 2px;
+    margin: 35px 5px;
+    padding: 10px;
+    font-family: cursive;
+    background-color: thistle;
+}
+h2, p{
+    text-align: center;
+}
+.my-style{
+    box-shadow: 5px 5px 10px orangered;
+    border: orangered 5px solid;
+}
